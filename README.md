@@ -1,2 +1,1 @@
-# learn_git
-Record my git learning.
+# Git & GitHub
